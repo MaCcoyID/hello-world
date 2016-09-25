@@ -1,5 +1,3 @@
-
-<!DOCTYPE html>
 <html>
 
 <head>
@@ -66,4 +64,4 @@ button {
  
 </form>
 </body>
-</html># hello-world
+</html>
